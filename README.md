@@ -1,2 +1,5 @@
-# Bakery-shopping
-A bakery is an establishment that produces and sells flour-based food baked in an oven such as bread, cookies, cakes, donuts, pastries, and pies.
+# Shopping web site - cart item using javascipt
+
+- ADD ITEMS TO CART - JAVASCRIPT PROJECT
+
+- Function that add item to the cart is coded in js/app.js
